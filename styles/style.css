@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rb_reg';
+}
+
+body {
+  background: black;
+}
+
+.title_age {
+  color: white;
+}
+
+.ages_info {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
